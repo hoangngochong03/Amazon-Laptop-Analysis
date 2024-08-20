@@ -16,7 +16,7 @@
 - **PostgreSQL Integration:**
   - Create database tables and triggers.
   - Load the processed data into a PostgreSQL database.
-  - [Postgres](https://github.com/hoangngochong03/Amazon-Laptop-Analysis/tree/main/postgres)
+  - [PostgreSQL](https://github.com/hoangngochong03/Amazon-Laptop-Analysis/tree/main/postgres)
 ### 5. Data Visualization
 - **Visualize Data:** Use Power BI to create visualizations and dashboards based on the analyzed data.
 - [Visualize](https://github.com/hoangngochong03/Amazon-Laptop-Analysis/tree/main/Analysis)
