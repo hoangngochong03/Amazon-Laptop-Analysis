@@ -18,7 +18,7 @@
   - Load the processed data into a PostgreSQL database.
   - [PostgreSQL](https://github.com/hoangngochong03/Amazon-Laptop-Analysis/tree/main/postgres)
 ### 5. Data Visualization
-- **Visualize Data:** Use Power BI to create visualizations and dashboards based on the analyzed data.
+- **Visualize Data:** Use Power BI to create visualizations and dashboards.
 - [Visualize](https://github.com/hoangngochong03/Amazon-Laptop-Analysis/tree/main/Analysis)
 ## Knowledge & Skills
 - **Web Scraping:** Selenium
